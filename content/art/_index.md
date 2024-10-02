@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Art
 summary: My art pieces
 type: landing
@@ -20,4 +20,4 @@ sections:
     design:
       view: article-grid
       columns: 2
---- -->
+---
