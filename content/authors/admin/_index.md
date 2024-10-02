@@ -47,9 +47,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reading. I am a book worm ^^ I read to dig into the depth of the world.
+  - Photography. I use camera to see the world.
+  - Handcraft.
 
 education:
   # - area: PhD Artificial Intelligence
